@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-Survey-on-Attitude-Towards-Innovative-Transport-in-Europe
+EU Transport data from a survey done on 28 European countries is used to deduce the relationship between country regions and their affiliation with the possibility of buying an electric car in future, inclination towards car-sharing and consequently their relative concern towards the impact of cars on the environment. Chi-squared value and p-value are calculated to conclude that the country region has an impact on the outlook of individuals on above-said variables.
